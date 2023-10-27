@@ -19,4 +19,4 @@
 ### task_3:
 Создать массив n-фигур и вывести полную информацию о фигурах на экран.
 
-[Реализация](https://github.com)    
+[Реализация](https://github.com/Almomsk/Objective-C/tree/main/Lecture%26Seminar_2/HW_2/HW_Project)    
