@@ -20,4 +20,4 @@ x^2 – 100x - 2 = 0
 ### task_2:
 Создать программу, которая находит большее число среди 3-х чисел.
 
-[Реализация](https://github.com/)
+[Реализация](https://github.com/Almomsk/Objective-C/tree/main/Lecture%26Seminar_1/HW_1)
