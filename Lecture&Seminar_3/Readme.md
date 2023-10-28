@@ -15,4 +15,4 @@
 
 См. пример во вложенных материалах к уроку
 
-[Реализация](https://github.com)    
+[Реализация](https://github.com/Almomsk/Objective-C/tree/main/Lecture%26Seminar_3/HW_3/HW_3_Project)    
