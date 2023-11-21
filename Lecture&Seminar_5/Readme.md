@@ -14,4 +14,4 @@
 1. На первом экране приложения отображение GET-запроса в TextView элементе.
 2. На втором экране реализовать два TextField и одну Button. При нажатии на кнопку реализовать передачу данных по методу POST.
 
-[Реализация](https://github.com/Almomsk/Objective-C/tree/main/Lecture%26Seminar_5/HW_5)    
+[Реализация](https://github.com/Almomsk/Objective-C/tree/main/Lecture%26Seminar_5/Project_seminar_5)    
