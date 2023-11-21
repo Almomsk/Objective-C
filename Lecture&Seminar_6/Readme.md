@@ -14,4 +14,4 @@
 Необходимо сохранить объект робота в userDefaults и считать из него в виде TextView (или в консоль при технических сложностях).
 Сохранить информацию о роботе в файл с названием таким же как имя робота и считать содержимое файла, далее, отобразить в виде TextView (или в консоль при технических сложностях).
 
-[Реализация](https://github.com/Almomsk/Objective-C/tree/main/Lecture%26Seminar_6/HW_4)    
+[Реализация](https://github.com/Almomsk/Objective-C/tree/main/Lecture%26Seminar_6/HW_6_Project)    
